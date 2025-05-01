@@ -1,2 +1,2 @@
 # FastAPI_trial
-This is a simple FastAPI CRUD application with RedisDB 
+This is a simple FastAPI application with RedisDB and 3rd party OAuth integrations
